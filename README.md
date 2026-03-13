@@ -79,7 +79,7 @@ As soon as your terminal shows "Successfully built," follow these steps to "lock
 
 `git commit -m "docs: add professional README and finalize docker setup"`
 
-`git push origin main`
+`git push`
 
 
 
